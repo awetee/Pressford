@@ -30,3 +30,4 @@ _ReSharper*/
 *.dll
 src/PressfordWebApp/wwwroot/js/*
 src/PressfordWebApp/wwwroot/app/*
+packages/*
