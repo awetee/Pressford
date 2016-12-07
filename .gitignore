@@ -28,3 +28,5 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 *.dll
+src/PressfordWebApp/wwwroot/js/*
+src/PressfordWebApp/wwwroot/app/*
